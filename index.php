@@ -61,7 +61,7 @@
                     </li>
                     </li>
                     <li>
-                        <a href="./about.html" class="text-white position-relative">سجل كمتطوع </a>
+                        <a href="./about.php" class="text-white position-relative">سجل كمتطوع </a>
                     </li>
                     <li>
                         <a href="./contact.html" class="text-white position-relative">من نحن</a>
@@ -417,7 +417,7 @@
                 <h3 class="mb-3 fw-bold">روابط سريعة</h3>
                 <ul>
                     <li class="mb-2">
-                        <a href="./index.html" class="text-white d-inline-block">الرئيسية</a>
+                        <a href="./index.php" class="text-white d-inline-block">الرئيسية</a>
                     </li>
                     <li class="mb-2">
                         <a href="./services.html" class="text-white d-inline-block">أعمالنا</a>
@@ -426,7 +426,7 @@
                         <a href="./partners.html" class="text-white d-inline-block">مكتبتنا</a>
                     </li>
                     <li class="mb-2">
-                        <a href="./about.html" class="text-white d-inline-block">سجل كمتطوع </a>
+                        <a href="./about.php" class="text-white d-inline-block">سجل كمتطوع </a>
                     </li>
                     <li class="mb-2">
                         <a href="./contact.html" class="text-white d-inline-block"> من نحن</a>

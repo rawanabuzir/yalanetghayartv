@@ -52,7 +52,7 @@
             <nav>
                 <ul class="d-flex align-items-center gap-4">
                     <li>
-                        <a href="./index.html" class="text-white position-relative">الرئيسية</a>
+                        <a href="./index.php" class="text-white position-relative">الرئيسية</a>
                     </li>
                     <li>
                         <a href="./services.html" class="text-white position-relative">أعمالنا</a>
@@ -62,7 +62,7 @@
                     </li>
                     </li>
                     <li>
-                        <a href="#" class="text-white position-relative active">سجل كمتطوع </a>
+                        <a href="about.php" class="text-white position-relative active">سجل كمتطوع </a>
                     </li>
                     <li>
                         <a href="./contact.html" class="text-white position-relative">من نحن</a>
@@ -318,7 +318,7 @@
                 <h3 class="mb-3 fw-bold">روابط سريعة</h3>
                 <ul>
                     <li class="mb-2">
-                        <a href="./index.html" class="text-white d-inline-block">الرئيسية</a>
+                        <a href="./index.php" class="text-white d-inline-block">الرئيسية</a>
                     </li>
                     <li class="mb-2">
                         <a href="./services.html" class="text-white d-inline-block">أعمالنا</a>
@@ -327,7 +327,7 @@
                         <a href="./partners.html" class="text-white d-inline-block">مكتبتنا</a>
                     </li>
                     <li class="mb-2">
-                        <a href="./about.html" class="text-white d-inline-block">سجل كمتطوع </a>
+                        <a href="./about.php" class="text-white d-inline-block">سجل كمتطوع </a>
                     </li>
                     <li class="mb-2">
                         <a href="./contact.html" class="text-white d-inline-block"> من نحن</a>
