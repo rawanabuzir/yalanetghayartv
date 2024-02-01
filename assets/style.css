@@ -1,0 +1,76 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    background-color: #343a40;
+    color: white;
+}
+
+.main {
+    margin: 20px;
+}
+
+h4 {
+    color: #343a40;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th,
+td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #dee2e6;
+}
+
+th {
+    background-color: #343a40;
+    color: white;
+}
+
+tbody tr:hover {
+    background-color: #f8f9fa;
+}
+
+#editBtn,
+#deleteBtn {
+    background-color: #007bff;
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-right: 5px;
+}
+
+#deleteBtn {
+    background-color: #dc3545;
+}
+
+#editBtn:hover,
+#deleteBtn:hover {
+    background-color: #0056b3;
+}
+
+.modal-content {
+    background-color: #fff;
+}
+
+label {
+    color: #343a40;
+}
+
+.btn-dark {
+    background-color: #343a40;
+    color: white;
+    border: none;
+}
+
+.btn-dark:hover {
+    background-color: #1d2124;
+}
